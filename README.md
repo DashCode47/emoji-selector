@@ -39,14 +39,14 @@
 ## 🤝 Contributing
 
 -Juan Sotomayor-Tutor Kruger Star
--Vida MRR-Youtube
+
 
 ## Show your support
 
 Give a ⭐ if you like this project!
 
 ## Acknowledgments
-
+-Vida MRR-Youtube
 - Designed by JS
 
 This project is [MIT](./MIT.md) licensed.
