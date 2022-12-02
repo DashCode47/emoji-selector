@@ -1,8 +1,8 @@
 <img src="./image-removebg-preview%20(2).png" height="50px">
 
-# KrugerStar Weather-widget
+# KrugerStar Emoji-Selector
 
-> Widget del clima hecho en kruger ,nos permite ver climas alrededor del mundo en tiempo real.
+> Web-App de selector de emojis para entender mejor el uso de useRef en react .
 
 <img src="./src/assets/mock.png" height="300px">
 
@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-[live demo link](https://weatherwidget-uhbm.vercel.app)
+[live demo link](https://emoji-selector-orpin.vercel.app)
 
 ## Run it locally
 
@@ -33,7 +33,7 @@
 
 - GitHub: [@DashCode47](https://github.com/DashCode47)
 - Twitter: [@Dash47](https://twitter.com/dash47)
-- LinkedIn: [Juan Sebastian Sotomayor](https://linkedin.com/in/david-lozada47)
+- LinkedIn: [David Lozada](https://linkedin.com/in/david-lozada47)
   px"
 
 ## 🤝 Contributing
